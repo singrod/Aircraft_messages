@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1449940542 source:c:\users\mark\desktop\c++ codeblocks projects\aircraftmessages\dictionary.cpp
+	"Dictionary.h"
+	<iostream>
+	"Message.h"
+	<sstream>
+	<vector>
+	<set>
+	<ctype.h>
+	<algorithm>
+
+1449940561 c:\users\mark\desktop\c++ codeblocks projects\aircraftmessages\dictionary.h
+	<fstream>
+	<string>
+	<set>
+	<vector>
+	<map>
+
+1449932654 source:c:\users\mark\desktop\c++ codeblocks projects\aircraftmessages\main.cpp
+	<iostream>
+	"Dictionary.h"
+	"Message.h"
+
+1449939402 source:c:\users\mark\desktop\c++ codeblocks projects\aircraftmessages\message.cpp
+	"Message.h"
+	<iostream>
+	<string>
+	<vector>
+	<sstream>
+	<iterator>
+
+1449939399 c:\users\mark\desktop\c++ codeblocks projects\aircraftmessages\message.h
+	<fstream>
+	<string>
+	<set>
+	<vector>
+	<map>
+
